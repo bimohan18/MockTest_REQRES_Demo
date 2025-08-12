@@ -31,7 +31,3 @@ def test_get_reqres(apis):
    schema_get_reqres(response)
 
    logger.info("test_post_ach passed successfully")
-
-
-
-
